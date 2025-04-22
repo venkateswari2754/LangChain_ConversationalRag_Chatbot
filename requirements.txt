@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-groq
+langchain-community
+langchain-chroma
+langchain-experimental
+python-dotenv
+pymysql
+sentence-transformers
+chromadb
+cryptography

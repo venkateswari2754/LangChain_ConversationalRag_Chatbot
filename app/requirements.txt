@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+pydantic
+langchain
+langchain-groq
+langchain-community
+langchain-chroma
+langchain-experimental
